@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Patrick Chow',
+  subtitle: 'Flutter Developer, with a passion for creating clean and beautiful apps.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -12,7 +12,7 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'My Apps',
       path: '/'
     },
     {
@@ -20,14 +20,14 @@ module.exports = {
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: 'Skills',
       path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Patrick Chow',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Flutter Developer, with a passion for creating clean and beautiful apps.',
     contacts: {
       email: '',
       facebook: '#',
