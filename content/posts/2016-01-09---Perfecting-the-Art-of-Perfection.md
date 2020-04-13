@@ -1,21 +1,25 @@
 ---
-title: Perfecting the Art of Perfection
-date: "2016-09-01T23:46:37.121Z"
+title: Receipt Tracker
+date: "2019-09-03T23:46:37.121Z"
 template: "post"
 draft: false
-slug: "perfecting-the-art-of-perfection"
-category: "Design Inspiration"
+slug: "Receipt-Tracker"
+category: "Android"
 tags:
-  - "Handwriting"
-  - "Learning to write"
-description: "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum."
+  - "Android"
+  - "Kotlin"
+description: "Receipt Tracker is an android app that allows registered users to create receipts to keep track of them."
 socialImage: "/media/image-2.jpg"
 ---
 
-Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
+Receipt Tracker is an android app that allows registered users to create receipts to keep track of them.<br>
+Built using Native Android with Kotlin.<br>
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg)
+*Link To Project: [Receipt Tracker Github Link](https://github.com/Receipt-Tracking-App/receipt-android)*
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. 
+<h2>My Responsibilties Included</h2>
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+<ul>
+  <li>Programmed all of the crud API calls for receipts.</li>
+  <li>Created the Authorization Login/Register.</li>
+</ul>
