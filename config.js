@@ -32,7 +32,7 @@ module.exports = {
       email: 'patrickchow0803@gmail.com',
       facebook: '#',
       telegram: '#',
-      twitter: '#',
+      twitter: 'PatrickChow0803',
       github: 'PatrickChow0803',
       rss: '',
       vkontakte: '',
