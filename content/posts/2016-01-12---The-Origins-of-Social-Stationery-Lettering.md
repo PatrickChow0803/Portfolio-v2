@@ -24,3 +24,7 @@ Built using Native Android with Kotlin.<br>
   <li>Programmed all the logic so that the data retrieved from API calls would work with the UI.</li>
   <li>Created all the controllers and their navigation.</li>
 </ul>
+
+![](/media/bnblogin.jpg)
+![](/media/bnbhome.jpg)
+![](/media/bnbreserve.jpg)
