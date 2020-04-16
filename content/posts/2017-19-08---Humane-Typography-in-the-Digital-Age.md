@@ -32,3 +32,10 @@ Built using Native Android with Kotlin and Firebase<br>
   <li>Made the notifications used for studying. Notifications could be modified in the settings.</li>
 </ul>
 
+
+
+![](/media/mneme-login.jpg)
+![](/media/mneme-home.jpg)
+![](/media/mneme-play.jpg)
+![](/media/mneme-back.jpg)
+![](/media/mneme-result.jpg)
