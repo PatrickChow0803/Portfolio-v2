@@ -13,5 +13,5 @@ I love technology and software, especially for smartphones. This love is what sp
 <h3><u>Contact Information</u></h3>
 
 Email: PatrickChow0803@gmail.com<br>
-Linkedin: https://www.linkedin.com/in/patrick-chow-0803/
+Linkedin: https://www.linkedin.com/in/patrick-chow-0803/<br>
 Github:  https://github.com/PatrickChow0803
