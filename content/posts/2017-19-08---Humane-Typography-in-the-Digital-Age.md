@@ -21,6 +21,7 @@ socialImage: "/media/42-line-bible.jpg"
 Mneme Cards is an app used to help people remember by use of spaced repetition, similar to famous flashcard apps such as Anki and Duolingo.<br>
 Built using Native Android with Kotlin and Firebase<br>
 
+*Link To Video Demonstration: [Mneme Cards Video Demonstration Link](https://youtu.be/oGsLE7Rpgn0)*<br>
 *Link To Project: [Mneme Cards Github Link](https://github.com/Lambda-School-Labs/flashcards-android)*<br>
 *Link To Playstore: [Mneme Cards Playstore Link](https://play.google.com/store/apps/details?id=com.lambda.mnemecards)*
 
