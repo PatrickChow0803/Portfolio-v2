@@ -33,5 +33,5 @@ Built using the Flutter Framework and Firebase<br>
   <li>Programmed the UI following a Wireframe. Wireframe Reference url -> https://dribbble.com/shots/14562207--22-Weather-Forecast-App-MobileApp-Concept</li>
 </ul>
 
-![](/media/weather_home.png)
-![](/media/weather_details.png)
+![](/media/weather-home.jpg)
+![](/media/weather-details.jpg)

@@ -12,6 +12,11 @@ socialImage: "/media/image-4.jpg"
   <li>Flutter</li>
   <li>Dart</li>
   <li>Provider</li>
+  <li>Firebase</li>
+  <li>Firebase Auth</li>
+  <li>Firebase Firestore</li>
+  <li>Domain Driven Design</li>
+  <li>Firebase Storage</li>
   <li>Material Design</li>
   <li>Android Studio</li>
 </ul>
