@@ -23,7 +23,7 @@ Built using the Flutter Framework and Firebase<br>
 
 <!-- *Link To Video Demonstration: [Weather Now Video Demonstration Link](https://youtu.be/oGsLE7Rpgn0)*<br> -->
 *Link To Project: [Weather Now Github Link](https://github.com/PatrickChow0803/Weather-Now)*<br>
-<!-- *Link To Playstore: [Weather Now Playstore Link](https://play.google.com/store/apps/details?id=com.lambda.mnemecards)* -->
+*Link To Playstore: [Weather Now Playstore Link](https://play.google.com/store/apps/details?id=com.patrickchow.weather_app)*
 
 <h2>My Responsibilties Included</h2>
 
@@ -33,5 +33,5 @@ Built using the Flutter Framework and Firebase<br>
   <li>Programmed the UI following a Wireframe. Wireframe Reference url -> https://dribbble.com/shots/14562207--22-Weather-Forecast-App-MobileApp-Concept</li>
 </ul>
 
-![](/media/weather-home.jpg)
+![](/media/weather-home.jpg) <br>
 ![](/media/weather-details.jpg)
